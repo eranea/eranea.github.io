@@ -3,6 +3,7 @@ layout: default
 ---
 
 - 👋 Hi, we are @eranea
+
 - 👀 Eranea as a company was founded in 2011 by software engineers with thorough backgrounds in large-scale software development, system engineering and architecture 
 for mission-critical applications in various areas and industries: media, finance, industry,etc.
 - Eranea was created with the mission of developing further such large pieces of software for customers aiming at successfully achieve their digital transformation.
