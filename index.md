@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- 👋 Hi, we are @eranea
+- 👋 Hi, we are Eranea
 
 - 👀 Eranea as a company was founded in 2011 by software engineers with thorough backgrounds in large-scale software development, system engineering and architecture 
 for mission-critical applications in various areas and industries: media, finance, industry,etc.
